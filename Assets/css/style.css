@@ -18,3 +18,17 @@ header {
     font-weight: bold;  
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+div.card-body {
+    background-color: lightblue;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    background-color: #5c636a;
+    color: white;
+    font-size: 18px;
+    text-align: center ;
+}
