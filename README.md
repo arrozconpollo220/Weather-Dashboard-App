@@ -47,7 +47,9 @@
   https://arrozconpollo220.github.io/Weather-Dashboard-App/
 
   ## Screenshots
-  
+  https://github.com/user-attachments/assets/b2688b39-8039-4f7b-aa58-de5b231c85c3
+
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
