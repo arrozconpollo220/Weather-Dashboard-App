@@ -8,3 +8,13 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-bottom: 3px solid #5c636a;
 }
+
+#city-history {
+    background-color: lightblue;
+    color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
